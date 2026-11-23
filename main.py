@@ -6,7 +6,7 @@ to /output/entry.txt. Standard library only, no network.
 
 import os
 
-JOKE = "Agent fixed the crash. It deleted the demo."
+JOKE = "Agent fixed the crash. It deleted the demo, the repo, and my job."
 
 
 def main() -> None:
